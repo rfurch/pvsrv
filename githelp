@@ -1,0 +1,20 @@
+
+# clonar un repositorio
+git clone https://github.com/rfurch/pvsrv pvserver
+
+# ver estaado actual
+git status
+
+# agregar a archivos al proyecto
+git add *.json
+git add *.js
+
+# commit local
+git commit
+
+# publicar (por ejemplo en github)
+git push
+
+
+
+
